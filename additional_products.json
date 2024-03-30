@@ -1,0 +1,429 @@
+{
+  "rustic_wooden_wall_shelf": {
+    "name": "Rustic Wooden Wall Shelf",
+    "price": "$79.99",
+    "description": "Add a touch of rustic charm to your home with this Rustic Wooden Wall Shelf. Crafted from solid wood, this shelf features a natural finish and sturdy metal brackets. Perfect for displaying photos, plants, or small decor items.",
+    "images_path": [
+      "./img/rustic_wooden_wall_shelf1.png",
+      "./img/rustic_wooden_wall_shelf2.png",
+      "./img/rustic_wooden_wall_shelf3.png"
+    ]
+  },
+  "vintage_style_desk_lamp": {
+    "name": "Vintage Style Desk Lamp",
+    "price": "$49.99",
+    "description": "Illuminate your workspace with vintage flair using this Vintage Style Desk Lamp. Featuring a metal base and adjustable arm, this lamp adds character to any desk or side table. The amber glass shade provides warm, ambient lighting.",
+    "images_path": [
+      "./img/vintage_desk_lamp1.png",
+      "./img/vintage_desk_lamp2.png"
+    ]
+  },
+  "bohemian_throw_pillow_set": {
+    "name": "Bohemian Throw Pillow Set",
+    "price": "$39.99",
+    "description": "Enhance your living space with this Bohemian Throw Pillow Set. Made from soft, durable fabric, these pillows feature vibrant patterns and textures inspired by bohemian design. Perfect for adding a pop of color to your sofa or bed.",
+    "images_path": [
+      "./img/bohemian_throw_pillow_set1.png",
+      "./img/bohemian_throw_pillow_set2.png",
+      "./img/bohemian_throw_pillow_set3.png"
+    ]
+  },
+  "marble_pattern_coasters": {
+    "name": "Marble Pattern Coasters",
+    "price": "$14.99",
+    "description": "Protect your surfaces in style with these Marble Pattern Coasters. Made from high-quality ceramic with a marble-inspired design, these coasters add elegance to any table setting. Set includes four coasters.",
+    "images_path": [
+      "./img/marble_pattern_coasters1.png",
+      "./img/marble_pattern_coasters2.png"
+    ]
+  },
+  "vintage_record_player": {
+    "name": "Vintage Record Player",
+    "price": "$249.99",
+    "description": "Experience the nostalgia of vinyl with this Vintage Record Player. Featuring a classic design with modern functionality, this record player plays vinyl records and has built-in speakers. A perfect addition to any music lover's collection.",
+    "images_path": [
+      "./img/vintage_record_player1.png",
+      "./img/vintage_record_player2.png",
+      "./img/vintage_record_player3.png"
+    ]
+  },
+  "artificial_potted_plants_set": {
+    "name": "Artificial Potted Plants Set",
+    "price": "$29.99",
+    "description": "Bring the beauty of nature indoors with this Artificial Potted Plants Set. Each lifelike plant is nestled in a decorative pot, adding greenery to any space without the maintenance. Perfect for desks, shelves, or countertops.",
+    "images_path": [
+      "./img/artificial_potted_plants_set1.png",
+      "./img/artificial_potted_plants_set2.png",
+      "./img/artificial_potted_plants_set3.png"
+    ]
+  },
+  "vintage_wall_clock": {
+    "name": "Vintage Wall Clock",
+    "price": "$34.99",
+    "description": "Add vintage charm to your home with this Vintage Wall Clock. Featuring a distressed metal frame and bold numerals, this clock makes a statement on any wall. The quartz movement ensures accurate timekeeping.",
+    "images_path": [
+      "./img/vintage_wall_clock1.png",
+      "./img/vintage_wall_clock2.png",
+      "./img/vintage_wall_clock3.png"
+    ]
+  },
+  "moroccan_style_area_rug": {
+    "name": "Moroccan Style Area Rug",
+    "price": "$129.99",
+    "description": "Transform your space with this Moroccan Style Area Rug. Made from soft, durable materials, this rug features an intricate pattern inspired by traditional Moroccan design. Available in various sizes to suit any room.",
+    "images_path": [
+      "./img/moroccan_style_area_rug1.png",
+      "./img/moroccan_style_area_rug2.png",
+      "./img/moroccan_style_area_rug3.png"
+    ]
+  },
+  "industrial_style_bookshelf": {
+    "name": "Industrial Style Bookshelf",
+    "price": "$179.99",
+    "description": "Organize your books and display your decor with this Industrial Style Bookshelf. Constructed from sturdy metal and wood, this bookshelf features a minimalist design with ample storage space. Perfect for adding a touch of urban charm to any room.",
+    "images_path": [
+      "./img/industrial_style_bookshelf1.png",
+      "./img/industrial_style_bookshelf2.png",
+      "./img/industrial_style_bookshelf3.png"
+    ]
+  },
+  "vintage_brass_candle_holders": {
+    "name": "Vintage Brass Candle Holders",
+    "price": "$49.99",
+    "description": "Create a warm and inviting atmosphere with these Vintage Brass Candle Holders. Made from solid brass with an antique finish, these candle holders add a touch of elegance to any tabletop or mantel.",
+    "images_path": [
+      "./img/vintage_brass_candle_holders1.png",
+      "./img/vintage_brass_candle_holders2.png",
+      "./img/vintage_brass_candle_holders3.png"
+    ]
+  },
+  "abstract_canvas_wall_art": {
+    "name": "Abstract Canvas Wall Art",
+    "price": "$89.99",
+    "description": "Elevate your walls with this Abstract Canvas Wall Art. Featuring bold colors and geometric shapes, this canvas adds a modern touch to any space. Ready to hang for instant style.",
+    "images_path": [
+      "./img/abstract_canvas_wall_art1.png",
+      "./img/abstract_canvas_wall_art2.png",
+      "./img/abstract_canvas_wall_art3.png"
+    ]
+  },
+  "modern_ceramic_table_lamp": {
+    "name": "Modern Ceramic Table Lamp",
+    "price": "$69.99",
+    "description": "Brighten up your space with this Modern Ceramic Table Lamp. Featuring a sleek ceramic base and fabric shade, this lamp adds contemporary style to any room. Perfect for bedside tables or desks.",
+    "images_path": [
+      "./img/modern_ceramic_table_lamp1.png",
+      "./img/modern_ceramic_table_lamp2.png",
+      "./img/modern_ceramic_table_lamp3.png"
+    ]
+  },
+  "geometric_pattern_throw_blanket": {
+    "name": "Geometric Pattern Throw Blanket",
+    "price": "$44.99",
+    "description": "Stay cozy and stylish with this Geometric Pattern Throw Blanket. Made from soft, breathable fabric, this blanket features a modern geometric pattern in vibrant colors. Perfect for curling up on the couch or adding a pop of color to your bedding.",
+    "images_path": [
+      "./img/geometric_pattern_throw_blanket1.png",
+      "./img/geometric_pattern_throw_blanket2.png"
+    ]
+  },
+  "vintage_style_wall_mirror": {
+    "name": "Vintage Style Wall Mirror",
+    "price": "$59.99",
+    "description": "Reflect vintage charm with this Vintage Style Wall Mirror. Featuring an ornate frame with distressed details, this mirror adds elegance to any wall. Hang it in your entryway, living room, or bedroom for added style and functionality.",
+    "images_path": [
+      "./img/vintage_style_wall_mirror1.png",
+      "./img/vintage_style_wall_mirror2.png",
+      "./img/vintage_style_wall_mirror3.png"
+    ]
+  },
+  "boho_macrame_wall_hanging": {
+    "name": "Boho Macrame Wall Hanging",
+    "price": "$24.99",
+    "description": "Add bohemian flair to your space with this Boho Macrame Wall Hanging. Handcrafted from cotton rope, this wall hanging features intricate knotwork and fringe detail. Hang it in any room for a touch of texture and style.",
+    "images_path": [
+      "./img/boho_macrame_wall_hanging1.png",
+      "./img/boho_macrame_wall_hanging2.png",
+      "./img/boho_macrame_wall_hanging3.png"
+    ]
+  },
+  "vintage_style_ceramic_planters": {
+    "name": "Vintage Style Ceramic Planters",
+    "price": "$34.99",
+    "description": "Display your favorite plants in style with these Vintage Style Ceramic Planters. Made from durable ceramic with a vintage-inspired design, these planters add charm to any indoor or outdoor space.",
+    "images_path": [
+      "./img/vintage_ceramic_planters1.png",
+      "./img/vintage_ceramic_planters2.png",
+      "./img/vintage_ceramic_planters3.png"
+    ]
+  },
+  "farmhouse_style_dining_chairs": {
+    "name": "Farmhouse Style Dining Chairs",
+    "price": "$119.99",
+    "description": "Upgrade your dining space with these Farmhouse Style Dining Chairs. Featuring a classic slat-back design and sturdy construction, these chairs provide both comfort and style. Perfect for farmhouse-inspired kitchens and dining rooms.",
+    "images_path": [
+      "./img/farmhouse_style_dining_chairs1.png",
+      "./img/farmhouse_style_dining_chairs2.png",
+      "./img/farmhouse_style_dining_chairs3.png"
+    ]
+  },
+  "vintage_style_wall_sconces": {
+    "name": "Vintage Style Wall Sconces",
+    "price": "$39.99",
+    "description": "Illuminate your walls with vintage charm using these Vintage Style Wall Sconces. Made from metal with an antique finish, these sconces feature a classic design with modern functionality. Perfect for adding ambient lighting to any room.",
+    "images_path": [
+      "./img/vintage_style_wall_sconces1.png",
+      "./img/vintage_style_wall_sconces2.png",
+      "./img/vintage_style_wall_sconces3.png"
+    ]
+  },
+  "industrial_style_bar_stools": {
+    "name": "Industrial Style Bar Stools",
+    "price": "$89.99",
+    "description": "Upgrade your home bar or kitchen island with these Industrial Style Bar Stools. Featuring a sturdy metal frame and wooden seat, these stools combine rustic charm with modern design. Adjustable height for added versatility.",
+    "images_path": [
+      "./img/industrial_style_bar_stools1.png",
+      "./img/industrial_style_bar_stools2.png",
+      "./img/industrial_style_bar_stools3.png"
+    ]
+  },
+  "vintage_style_glassware_set": {
+    "name": "Vintage Style Glassware Set",
+    "price": "$49.99",
+    "description": "Entertain in style with this Vintage Style Glassware Set. Made from high-quality glass with an etched design, this set includes everything you need to serve your favorite beverages with vintage flair.",
+    "images_path": [
+      "./img/vintage_style_glassware_set1.png",
+      "./img/vintage_style_glassware_set2.png",
+      "./img/vintage_style_glassware_set3.png"
+    ]
+  },
+  "bohemian_style_floor_pouf": {
+    "name": "Bohemian Style Floor Pouf",
+    "price": "$54.99",
+    "description": "Add extra seating and bohemian flair to your space with this Bohemian Style Floor Pouf. Made from soft, durable fabric with a colorful pattern, this pouf is perfect for lounging or as a decorative accent.",
+    "images_path": [
+      "./img/bohemian_style_floor_pouf1.png",
+      "./img/bohemian_style_floor_pouf2.png",
+      "./img/bohemian_style_floor_pouf3.png"
+    ]
+  },
+  "vintage_style_wall_shelf": {
+    "name": "Vintage Style Wall Shelf",
+    "price": "$29.99",
+    "description": "Display your favorite decor with this Vintage Style Wall Shelf. Made from sturdy wood with a distressed finish, this shelf features a classic design with a touch of rustic charm. Perfect for any room in your home.",
+    "images_path": [
+      "./img/vintage_style_wall_shelf1.png",
+      "./img/vintage_style_wall_shelf2.png",
+      "./img/vintage_style_wall_shelf3.png"
+    ]
+  },
+  "rustic_wooden_bench": {
+    "name": "Rustic Wooden Bench",
+    "price": "$99.99",
+    "description": "Add seating and storage to your entryway or mudroom with this Rustic Wooden Bench. Made from solid wood with a distressed finish, this bench features a slatted seat and lower shelf for shoes or baskets.",
+    "images_path": [
+      "./img/rustic_wooden_bench1.png",
+      "./img/rustic_wooden_bench2.png",
+      "./img/rustic_wooden_bench3.png"
+    ]
+  },
+  "vintage_style_metal_wall_art": {
+    "name": "Vintage Style Metal Wall Art",
+    "price": "$79.99",
+    "description": "Add a touch of vintage charm to your walls with this Vintage Style Metal Wall Art. Made from durable metal with a distressed finish, this art piece features intricate scrollwork and floral motifs.",
+    "images_path": [
+      "./img/vintage_style_metal_wall_art1.png",
+      "./img/vintage_style_metal_wall_art2.png",
+      "./img/vintage_style_metal_wall_art3.png"
+    ]
+  },
+  "bohemian_style_throw_rug": {
+    "name": "Bohemian Style Throw Rug",
+    "price": "$34.99",
+    "description": "Enhance your floors with bohemian flair using this Bohemian Style Throw Rug. Made from soft, durable fabric with a colorful pattern, this rug adds warmth and style to any room.",
+    "images_path": [
+      "./img/bohemian_style_throw_rug1.png",
+      "./img/bohemian_style_throw_rug2.png",
+      "./img/bohemian_style_throw_rug3.png"
+    ]
+  },
+  "vintage_style_kitchen_canisters": {
+    "name": "Vintage Style Kitchen Canisters",
+    "price": "$39.99",
+    "description": "Add retro charm to your kitchen with these Vintage Style Kitchen Canisters. Made from durable metal with an enamel finish, these canisters feature airtight lids and vintage-inspired designs.",
+    "images_path": [
+      "./img/vintage_style_kitchen_canisters1.png",
+      "./img/vintage_style_kitchen_canisters2.png",
+      "./img/vintage_style_kitchen_canisters3.png"
+    ]
+  },
+  "industrial_style_wall_shelf": {
+    "name": "Industrial Style Wall Shelf",
+    "price": "$49.99",
+    "description": "Organize your space with industrial flair using this Industrial Style Wall Shelf. Made from sturdy metal and wood, this shelf features a minimalist design with ample storage space.",
+    "images_path": [
+      "./img/industrial_style_wall_shelf1.png",
+      "./img/industrial_style_wall_shelf2.png",
+      "./img/industrial_style_wall_shelf3.png"
+    ]
+  },
+  "vintage_style_table_clock": {
+    "name": "Vintage Style Table Clock",
+    "price": "$24.99",
+    "description": "Add vintage charm to your tabletop with this Vintage Style Table Clock. Featuring a distressed metal frame and classic numerals, this clock makes a stylish addition to any room.",
+    "images_path": [
+      "./img/vintage_style_table_clock1.png",
+      "./img/vintage_style_table_clock2.png",
+      "./img/vintage_style_table_clock3.png"
+    ]
+  },
+  "moroccan_style_throw_pillow_set": {
+    "name": "Moroccan Style Throw Pillow Set",
+    "price": "$49.99",
+    "description": "Update your decor with this Moroccan Style Throw Pillow Set. Made from soft, durable fabric with vibrant patterns, these pillows add a touch of Moroccan-inspired charm to any space.",
+    "images_path": [
+      "./img/moroccan_style_throw_pillow_set1.png",
+      "./img/moroccan_style_throw_pillow_set2.png",
+      "./img/moroccan_style_throw_pillow_set3.png"
+    ]
+  },
+  "vintage_style_picture_frames": {
+    "name": "Vintage Style Picture Frames",
+    "price": "$19.99",
+    "description": "Display your memories in style with these Vintage Style Picture Frames. Made from durable metal with an antique finish, these frames feature intricate details and easel backs for tabletop display.",
+    "images_path": [
+      "./img/vintage_style_picture_frames1.png",
+      "./img/vintage_style_picture_frames2.png",
+      "./img/vintage_style_picture_frames3.png"
+    ]
+  },
+  "bohemian_style_curtains": {
+    "name": "Bohemian Style Curtains",
+    "price": "$64.99",
+    "description": "Add bohemian flair to your windows with these Bohemian Style Curtains. Made from lightweight fabric with colorful patterns, these curtains provide privacy while letting in natural light.",
+    "images_path": [
+      "./img/bohemian_style_curtains1.png",
+      "./img/bohemian_style_curtains2.png",
+      "./img/bohemian_style_curtains3.png"
+    ]
+  },
+  "rustic_wooden_serving_tray": {
+    "name": "Rustic Wooden Serving Tray",
+    "price": "$29.99",
+    "description": "Serve drinks and snacks in style with this Rustic Wooden Serving Tray. Made from solid wood with rope handles, this tray features a natural finish and ample space for glasses, bottles, and plates.",
+    "images_path": [
+      "./img/rustic_wooden_serving_tray1.png",
+      "./img/rustic_wooden_serving_tray2.png",
+      "./img/rustic_wooden_serving_tray3.png"
+    ]
+  },
+  "vintage_style_desk_organizer": {
+    "name": "Vintage Style Desk Organizer",
+    "price": "$19.99",
+    "description": "Keep your desk neat and organized with this Vintage Style Desk Organizer. Made from durable metal with an antique finish, this organizer features compartments for pens, pencils, paper clips, and more.",
+    "images_path": [
+      "./img/vintage_style_desk_organizer1.png",
+      "./img/vintage_style_desk_organizer2.png",
+      "./img/vintage_style_desk_organizer3.png"
+    ]
+  },
+  "modern_ceramic_vase_set": {
+    "name": "Modern Ceramic Vase Set",
+    "price": "$39.99",
+    "description": "Display flowers and greenery with modern flair using this Modern Ceramic Vase Set. Made from high-quality ceramic with a glossy finish, these vases add style to any tabletop or shelf.",
+    "images_path": [
+      "./img/modern_ceramic_vase_set1.png",
+      "./img/modern_ceramic_vase_set2.png",
+      "./img/modern_ceramic_vase_set3.png"
+    ]
+  },
+  "vintage_style_wall_tapestry": {
+    "name": "Vintage Style Wall Tapestry",
+    "price": "$69.99",
+    "description": "Add a touch of vintage charm to your walls with this Vintage Style Wall Tapestry. Made from soft, lightweight fabric with a colorful design, this tapestry is perfect for adding texture and interest to any room.",
+    "images_path": [
+      "./img/vintage_style_wall_tapestry1.png",
+      "./img/vintage_style_wall_tapestry2.png",
+      "./img/vintage_style_wall_tapestry3.png"
+    ]
+  },
+  "bohemian_style_floor_lamp": {
+    "name": "Bohemian Style Floor Lamp",
+    "price": "$129.99",
+    "description": "Brighten up your space with bohemian flair using this Bohemian Style Floor Lamp. Featuring a metal base and colorful fabric shade, this lamp adds personality to any room. Perfect for reading nooks or cozy corners.",
+    "images_path": [
+      "./img/bohemian_style_floor_lamp1.png",
+      "./img/bohemian_style_floor_lamp2.png",
+      "./img/bohemian_style_floor_lamp3.png"
+    ]
+  },
+  "industrial_style_wall_clock": {
+    "name": "Industrial Style Wall Clock",
+    "price": "$54.99",
+    "description": "Keep time with industrial flair using this Industrial Style Wall Clock. Featuring a metal frame with rivet details and bold numerals, this clock makes a statement on any wall. The quartz movement ensures accurate timekeeping.",
+    "images_path": [
+      "./img/industrial_style_wall_clock1.png",
+      "./img/industrial_style_wall_clock2.png",
+      "./img/industrial_style_wall_clock3.png"
+    ]
+  },
+  "vintage_style_bedside_table": {
+    "name": "Vintage Style Bedside Table",
+    "price": "$149.99",
+    "description": "Add vintage charm to your bedroom with this Vintage Style Bedside Table. Made from solid wood with a distressed finish, this table features a drawer and lower shelf for storage. Perfect for keeping nighttime essentials within reach.",
+    "images_path": [
+      "./img/vintage_style_bedside_table1.png",
+      "./img/vintage_style_bedside_table2.png",
+      "./img/vintage_style_bedside_table3.png"
+    ]
+  },
+  "rustic_wooden_picture_ledge": {
+    "name": "Rustic Wooden Picture Ledge",
+    "price": "$19.99",
+    "description": "Display your favorite photos and artwork with this Rustic Wooden Picture Ledge. Made from solid wood with a natural finish, this ledge adds warmth and character to any wall. Easy to install and perfect for creating a gallery wall.",
+    "images_path": [
+      "./img/rustic_wooden_picture_ledge1.png",
+      "./img/rustic_wooden_picture_ledge2.png",
+      "./img/rustic_wooden_picture_ledge3.png"
+    ]
+  },
+  "vintage_style_wall_hook_rack": {
+    "name": "Vintage Style Wall Hook Rack",
+    "price": "$29.99",
+    "description": "Organize your entryway or mudroom with this Vintage Style Wall Hook Rack. Made from durable metal with a distressed finish, this rack features multiple hooks for hanging coats, hats, and bags.",
+    "images_path": [
+      "./img/vintage_style_wall_hook_rack1.png",
+      "./img/vintage_style_wall_hook_rack2.png",
+      "./img/vintage_style_wall_hook_rack3.png"
+    ]
+  },
+  "bohemian_style_duvet_cover_set": {
+    "name": "Bohemian Style Duvet Cover Set",
+    "price": "$79.99",
+    "description": "Update your bedding with bohemian flair using this Bohemian Style Duvet Cover Set. Made from soft, breathable fabric with colorful patterns, this set includes a duvet cover and matching shams.",
+    "images_path": [
+      "./img/bohemian_style_duvet_cover_set1.png",
+      "./img/bohemian_style_duvet_cover_set2.png",
+      "./img/bohemian_style_duvet_cover_set3.png"
+    ]
+  },
+  "vintage_style_ceiling_light": {
+    "name": "Vintage Style Ceiling Light",
+    "price": "$89.99",
+    "description": "Illuminate your space with vintage charm using this Vintage Style Ceiling Light. Featuring a metal frame with a glass shade, this light fixture adds character to any room. Mount it in your entryway, kitchen, or dining room for a statement-making look.",
+    "images_path": [
+      "./img/vintage_style_ceiling_light1.png",
+      "./img/vintage_style_ceiling_light2.png",
+      "./img/vintage_style_ceiling_light3.png"
+    ]
+  },
+  "industrial_style_coffee_table": {
+    "name": "Industrial Style Coffee Table",
+    "price": "$199.99",
+    "description": "Anchor your living room with industrial style using this Industrial Style Coffee Table. Made from sturdy metal and wood with a distressed finish, this table features a spacious top and lower shelf for storage and display.",
+    "images_path": [
+      "./img/industrial_style_coffee_table1.png",
+      "./img/industrial_style_coffee_table2.png",
+      "./img/industrial_style_coffee_table3.png"
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+#cart-information-container {
+  margin: 0 auto;
+  width: 65%;
+}
+
+#cart-information {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  width: 100%;
+  gap: 2rem;
+}
+
+#empty-cart {
+  width: 100%;
+  height: fit-content;
+  background-color: #efefef;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  display: none;
+}
+
+#shop-btn {
+  background-color: #000;
+  color: #fff;
+  width: 40%;
+  padding: 0.9rem;
+  border: hidden;
+  border-radius: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+#products-list {
+  width: 100%;
+  /* display: none; */
+  /* display: grid;
+  grid-template-columns: 3fr 1fr 1fr; */
+}
+
+#list-titles {
+  display: grid;
+  grid-template-columns: 3fr 1fr 1fr;
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+}
+
+.product-info {
+  display: grid;
+  grid-template-columns: 3fr 1fr 1fr;
+  margin-bottom: 3rem;
+  column-gap: 1rem;
+}
+
+.product {
+  display: flex;
+}
+
+.product-img {
+  display: inline-block;
+  width: 30%;
+  aspect-ratio: 1 / 1;
+  border-radius: 5px;
+  margin-right: 1rem;
+}
+
+.product-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.product-name {
+  display: inline-block;
+  width: 100%;
+  p {
+    margin: 0;
+  }
+}
+
+.product-quantity {
+  outline: none;
+  padding: 0.7rem;
+  max-width: 3.5rem;
+}
+
+.price {
+  text-align: right;
+
+  p {
+    margin: 0;
+  }
+}
+
+.remove {
+  grid-column: 3;
+  text-align: right;
+  cursor: pointer;
+  text-decoration: underline;
+
+  p{
+    margin: 0;
+    font-size: 0.95rem;
+  }
+}
+
+#summary {
+  width: 100%;
+  height: fit-content;
+  background-color: #ddd;
+  border-radius: 1rem;
+  padding: 2rem;
+  box-sizing: border-box;
+  grid-column: 2;
+}
+
+#summary-details {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.summary-subtotal {
+  margin-top: 0;
+}
+
+#summary-hr {
+  grid-column: 1 / span 2;
+  width: 100%;
+  margin: 1.5rem 0;
+}
+
+#checkout-btn  {
+  width: 100%;
+  padding: 0.9rem;
+  border: hidden;
+  border-radius: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  cursor: pointer;
+  margin-bottom: 1rem;
+}
+
+#checkout-btn:hover {
+  background-color: #e5e5e5;
+}
+
+#checkout-btn:active {
+  background-color: #dbdbdb;
+}

@@ -1,0 +1,65 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#info-container {
+  margin: 8rem 15% 5rem;
+  text-align: center;
+}
+
+#info {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.info-title {
+  margin: 3rem 0;
+}
+
+#map-form-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  /* grid-template-columns: 50% 50%; */
+  gap: 3rem;
+}
+
+#map {
+  height: 30rem;
+  width: 30rem;
+  margin-right: 0px;
+  margin-left: auto;
+}
+
+#contact-form-container {
+  max-width: 25rem;
+}
+
+#contact-form {
+  display: grid;
+}
+
+#contact-form input, textarea {
+  margin-bottom: 1rem;
+  padding: 0.2rem;
+  outline: none;
+  border: solid 1px #aaa;
+}
+
+
+label {
+  margin-bottom: 0.1rem;
+}
+
+#contact-form label, button, input, textarea{
+  resize: none;
+  display: block;
+}
+
+#contact-submit {
+  padding: 0.7rem;
+  background-color: #000;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+}

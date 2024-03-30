@@ -1,0 +1,45 @@
+label {
+  display: block;
+  font-size: 0.8rem;
+  margin-bottom: 0.5rem;
+}
+
+#title {
+  text-align: center;
+}
+
+#log-in-form {
+  width: 20%;
+  margin: 1rem auto;
+}
+
+input {
+  width: 100%;
+  padding: 0.5rem;
+  box-sizing: border-box;
+}
+
+.inputDiv {
+  margin-bottom: 0.7rem;
+} 
+
+button {
+  width: 100%;
+  padding: 0.7rem;
+  border: none;
+  background-color: #000;
+  color: #fff;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+#register-link {
+  text-decoration: underline;
+}
+
+#error, #email-error {
+  margin: 0;
+  font-size: 0.8rem;
+  color: #f00;
+  display: none;
+}

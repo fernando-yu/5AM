@@ -1,0 +1,23 @@
+#banner {
+  margin: 0 auto;
+  width: 50%;
+}
+
+#banner img {
+  width: 100%;
+  object-fit: contain;
+}
+
+#text {
+  margin: 0 25%;
+  text-align: center;
+}
+
+#title {
+  margin: 3rem 0;
+}
+
+#description {
+  font-size: 1rem;
+  line-height: 2.6rem;
+}

@@ -1,0 +1,29 @@
+#text-container {
+  width: 35%;
+  margin: 5rem auto 0;
+
+  text-align: center;
+}
+
+p {
+  margin: 0;
+}
+
+.horizontal-line {
+  margin: 2rem auto;
+  width: 5%;
+}
+
+.title {
+  font-size: 0.95rem;
+}
+
+.text {
+  margin-bottom: 3rem;
+  font-size: 0.9rem;
+
+}
+
+#return-policy {
+  text-align: justify;
+}

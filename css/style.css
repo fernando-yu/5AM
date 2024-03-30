@@ -1,0 +1,147 @@
+#gallery-container {
+  max-width: 55rem;
+  margin: 0 auto;
+}
+
+.slide {
+  display: none;
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  text-align: center;
+}
+
+.slide img{
+  height: 100%;
+  object-fit: contain;
+}
+
+.dot {
+  height: 10px;
+  width: 10px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 3s;
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+} */
+
+#new-arrivals {
+  text-align: center;
+  margin-top: 4rem;
+}
+
+#products-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.product {
+  display: inline-block;
+  margin: 0 0.5rem;
+}
+
+.product-image {
+  width: 300px;
+  aspect-ratio: 1 / 1;
+
+  img {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.product-description {
+  display: inline-block;
+  margin-top: 1rem;
+  font-size: 0.8rem;
+}
+
+#contact-us{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  margin-top: 2rem;
+  position: relative;
+  height: 31rem;
+}
+
+#contact-us-left {
+  background-image: url("../img/contact_us1.png");
+  background-size: cover;
+  display: grid;
+  grid-template-columns: 50% auto;
+  grid-template-rows: auto auto 1fr;
+}
+
+#contact-us-title {
+  grid-column: 2;
+  margin-top: 5rem;
+  font-size: 2.5rem;
+  text-align: left;
+  letter-spacing: 4px;
+}
+
+#contact-us-info {
+  grid-column: 2;
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  text-align: left;
+}
+
+#contact-us-right {
+  background-image: url("../img/contact_us2.png");
+  background-size: cover;
+}
+
+#contact-us-form-container {
+  margin: 5rem auto;
+  max-width: 35rem;
+}
+
+#contact-us-form {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 2rem;
+}
+
+#contact-us-form * {
+  padding: 0.7rem;
+  border-width: 0;
+}
+
+#contact-us-subject {
+  grid-column: 1 / span 2;
+}
+
+#contact-us-body {
+  resize: none;
+  grid-column: 1 / span 2;
+}
+
+#contact-us-submit {
+  grid-column: 1 / span 2;
+  background-color: #000;
+  color: #fff;
+  cursor: pointer;
+}
